@@ -28,7 +28,7 @@ We use this document as a reference for the values that our team has agreed on, 
 
 ### We get shit done
 
-- When we see problems, we proactively take ownership in resolving them. When something needs to be done but nobody can else is available, we rise to the occasion.
+- When we see problems, we proactively take ownership in resolving them. When something needs to be done but nobody else is available, we rise to the occasion.
 - We make efficient decisions. We value buy-in, not consensus.
 - We hold ourselves to a high standard, but understand when to make trade-offs to ship.
 - We spend our time as impactfully as possible.
